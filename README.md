@@ -13,4 +13,4 @@ Or using the metasploit module:
 
 Now, you can launch the exploit:
 
-<pre>python CVE2009-2585_HP_Power_Manager_BoF <TARGET> </pre>
+<pre>python CVE2009-2585_HP_Power_Manager_BoF IP </pre>
